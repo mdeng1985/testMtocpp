@@ -1,11 +1,11 @@
 var menudata={children:[
-{text:"Main Page",url:"index.html"},
-{text:"Related Pages",url:"pages.html"},
-{text:"Classes",url:"annotated.html",children:[
-{text:"Class List",url:"annotated.html"},
-{text:"Class Hierarchy",url:"inherits.html"},
-{text:"Class Members",url:"functions.html",children:[
-{text:"All",url:"functions.html",children:[
+{text:"首页",url:"index.html"},
+{text:"相关页面",url:"pages.html"},
+{text:"类",url:"annotated.html",children:[
+{text:"类列表",url:"annotated.html"},
+{text:"类继承关系",url:"inherits.html"},
+{text:"类成员",url:"functions.html",children:[
+{text:"全部",url:"functions.html",children:[
 {text:"a",url:"functions.html#index_a"},
 {text:"b",url:"functions.html#index_b"},
 {text:"c",url:"functions.html#index_c"},
@@ -23,10 +23,10 @@ var menudata={children:[
 {text:"s",url:"functions.html#index_s"},
 {text:"t",url:"functions.html#index_t"},
 {text:"v",url:"functions.html#index_v"}]},
-{text:"Functions",url:"functions_func.html"},
-{text:"Variables",url:"functions_vars.html"}]}]},
-{text:"Files",url:"files.html",children:[
-{text:"File List",url:"files.html"},
-{text:"File Members",url:"globals.html",children:[
-{text:"All",url:"globals.html"},
-{text:"Functions",url:"globals_func.html"}]}]}]}
+{text:"函数",url:"functions_func.html"},
+{text:"变量",url:"functions_vars.html"}]}]},
+{text:"文件",url:"files.html",children:[
+{text:"文件列表",url:"files.html"},
+{text:"文件成员",url:"globals.html",children:[
+{text:"全部",url:"globals.html"},
+{text:"函数",url:"globals_func.html"}]}]}]}

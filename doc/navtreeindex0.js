@@ -87,6 +87,6 @@ var NAVTREEINDEX0 =
 "newfeat1_4.html":[6],
 "pages.html":[],
 "stat_8m.html":[8,0,5],
-"stat_8m.html#a86e7be6a7e34987afbb684abc4dcc7e8":[8,0,5,0],
+"stat_8m.html#a5fd976342d38a0a7917521d4d17e9b31":[8,0,5,0],
 "stat_8m_source.html":[8,0,5]
 };

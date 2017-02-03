@@ -6,7 +6,7 @@ var searchData=
   ['setup',['setup',['../class_matlab_doc_maker.html#a434c176c2421dd18a40003919b19f4f2',1,'MatlabDocMaker']]],
   ['sort',['sort',['../classhandle.html#ad11b0be4c173a9d31122c1298eb96a97',1,'handle']]],
   ['sparsematrix',['sparsematrix',['../classsparsematrix.html',1,'']]],
-  ['stat',['stat',['../stat_8m.html#a86e7be6a7e34987afbb684abc4dcc7e8',1,'stat.m']]],
+  ['stat',['stat',['../stat_8m.html#a5fd976342d38a0a7917521d4d17e9b31',1,'stat.m']]],
   ['stat_2em',['stat.m',['../stat_8m.html',1,'']]],
   ['struct',['struct',['../classstruct.html',1,'']]]
 ];
