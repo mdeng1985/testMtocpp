@@ -1,6 +1,7 @@
 function y=descriptionTest(a)
-% This function tests comments of decription,parameters, return values (brief description)
+% This is a simple demo of function comments for mtoc++ (brief description)
 %
+% Detailed description:
 % This is detailed description (After the first empty documentation line, paragraphs of the detailed
 % description begin)
 %
@@ -8,10 +9,19 @@ function y=descriptionTest(a)
 %
 % also see: http://mdengli.com/mtocppLearn/ for a detail explaination
 %
+% for a complicated demo of function comments, please see doxygen.m  
 % Parameters:
 %  a: first parameter of type testnamespace.testclass.
 %
 % Return values:
 %  y: return value
+
+
+% \todo There needs to be done something in this file
+% \note this is note
+%
+% \author Matthew Li
+% \date <Date>
+% \copyright GNU Public License.
 
 y=a;

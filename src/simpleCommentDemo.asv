@@ -1,0 +1,29 @@
+function y=simpleCommentDemo(len)
+% This is a simple demo of function comments for mtoc++ (brief description)
+%
+% Detailed description:
+% This is detailed description (After the first empty documentation line, paragraphs of the detailed
+% description begin)
+%
+% see: http://www.stack.nl/~dimitri/doxygen/manual/docblocks.html#docstructure
+%
+% also see: http://mdengli.com/mtocppLearn/ for a detail explaination
+%
+% for a complicated demo of function comments, please see doxygen.m  @see doxygen.m
+% Parameters:
+%  len: first parameter of type double.
+%
+% Return values:
+%  y: return value
+%
+% Required fields of len:
+%  test: Description for required field len.test
+
+%| \todo There needs to be done something in this file
+% \note this is note
+% \version 0.1
+% \author Matthew Li
+% \date Feb-03-2017
+% \copyright GNU Public License.
+
+y=len;
